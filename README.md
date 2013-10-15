@@ -1,9 +1,9 @@
-g-tracker-phenny
+gtrackerbot2
 =================
 
 description:
 ------------
-Modified phenny bot for irc.installgentoo.com. Some modules have been cut out due to abuse and some custom modules (described below) have been added.
+A retired, modified phenny bot for irc.installgentoo.com. Some modules have been cut out due to abuse and some custom modules (described below) have been added.
 
 pretty sure these are broken now, hopefully one day I can get them fixed.
 
@@ -34,5 +34,5 @@ tracker module:
 * display latest torrents
 * announce newest user
 
-
-like I said hopefully one day I can get these fixed =[
+`This bot is retired and will no longer be getting worked on, it is purely for
+posterity`
